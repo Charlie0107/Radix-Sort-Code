@@ -1,0 +1,6 @@
+Public class Nodo {
+
+    int dato;
+    Nodo siguiente = null;
+    
+}
